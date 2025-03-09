@@ -1,17 +1,6 @@
 # Chest X-ray Pneumonia Detection Using Convolutional Neural Networks (CNN)
 
 This project aims to develop a Convolutional Neural Network (CNN) model to detect pneumonia from chest X-ray images. By leveraging deep learning techniques, the model assists in the early diagnosis of pneumonia, facilitating timely medical intervention.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-
 ## Introduction
 
 Pneumonia is a severe respiratory infection that affects the lungs and can be life-threatening if not diagnosed and treated promptly. Chest X-rays are commonly used for diagnosis; however, interpreting these images requires expertise and can be time-consuming. This project utilizes Convolutional Neural Networks (CNNs) to automate the detection of pneumonia from chest X-ray images, aiming to support healthcare professionals in making accurate and swift diagnoses.
